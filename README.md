@@ -26,5 +26,5 @@ To run this project locally, follow these steps:
 
 
 <p align="center">
-  Made with ❤️ by [YourName](https://github.com/vishu3053)
+  Made with ❤️ by [Vishwash Patel](https://github.com/vishu3053)
 </p>
