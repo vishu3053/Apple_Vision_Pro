@@ -6,6 +6,15 @@ A sleek and powerful web application inspired by Apple's vision technology. With
   <img src="demo.gif" alt="Demo">
 </p>
 
+## Technologies Used
+<div align="center">
+  <img src="HTML5.png" alt="HTML5" title="HTML5" width="50">
+  <img src="CSS.png" alt="CSS3" title="CSS3" width="50">
+  <img src="JS.png" alt="JavaScript" title="JavaScript" width="50">
+  <img src="canvas.png" alt="Canvas" title="Canvas" width="50">
+  <img src="GSAP.png" alt="GSAP" title="GSAP" width="50">
+</div>
+
 ## Installation and Usage
 
 To run this project locally, follow these steps:
