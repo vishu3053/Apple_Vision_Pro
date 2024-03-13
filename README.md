@@ -1,6 +1,6 @@
 # Welcome to Apple Vision Pro Clone 🍏
 
-A sleek and powerful web application inspired by Apple's vision technology. With Apple Vision Pro Clone, experience cutting-edge image recognition and augmented reality functionalities.
+<p align="center">Welcome to the Apple Vision Pro Homepage Clone project! This project is an attempt to recreate the homepage of Apple Vision Pro's website, aiming to replicate both the design and functionality using a variety of modern web technologies. Our goal is to provide users with an immersive experience that closely mirrors the original while leveraging the power of HTML, CSS, JavaScript, Canvas, GSAP (GreenSock Animation Platform), and Locomotive Scroll.</p>
 
 <p align="center">
   <img src="demo.gif" alt="Demo">
