@@ -23,3 +23,8 @@ To run this project locally, follow these steps:
 3. Open the index.html file in your web browser.
 
 4. Explore the Apple Vision Pro clone, interact with the elements, and experience the smooth animations.
+
+
+<p align="center">
+  Made with ❤️ by [YourName](https://github.com/vishu3053)
+</p>
