@@ -15,6 +15,13 @@ A sleek and powerful web application inspired by Apple's vision technology. With
   <img src="GSAP.png" alt="GSAP" title="GSAP" width="50">
 </div>
 
+- **HTML**: Structure for the web content.
+- **CSS**: Styling for the user interface.
+- **JavaScript**: Adds interactivity.
+- **Canvas**: Utilized for specific graphical elements.
+- **GSAP (GreenSock Animation Platform)**: Smooth animations.
+- **Locomotive Scroll**: Smooth scroll experience.
+
 ## Installation and Usage
 
 To run this project locally, follow these steps:
