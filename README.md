@@ -6,6 +6,10 @@
   <img src="demo.gif" alt="Demo">
 </p>
 
+
+## Deployment
+The project is deployed and accessible [here](https://applevisionproweb.netlify.app/).
+
 ## Technologies Used
 <div align="center">
   <img src="HTML5.png" alt="HTML5" title="HTML5" height="50" width="50">
