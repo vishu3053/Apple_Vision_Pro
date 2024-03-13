@@ -8,10 +8,10 @@ A sleek and powerful web application inspired by Apple's vision technology. With
 
 ## Technologies Used
 <div align="center">
-  <img src="HTML5.png" alt="HTML5" title="HTML5" width="50">
-  <img src="CSS.png" alt="CSS3" title="CSS3" width="50">
-  <img src="JS.png" alt="JavaScript" title="JavaScript" width="50">
-  <img src="canvas.png" alt="Canvas" title="Canvas" width="50">
+  <img src="HTML5.png" alt="HTML5" title="HTML5" height="50" width="50">
+  <img src="CSS.png" alt="CSS3" title="CSS3" height="50" width="50">
+  <img src="JS.png" alt="JavaScript" title="JavaScript" height="50" width="50">
+  <img src="canvas.png" alt="Canvas" title="Canvas" height="50" width="50">
   <img src="GSAP.png" alt="GSAP" title="GSAP" width="50">
 </div>
 
